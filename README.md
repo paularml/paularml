@@ -2,7 +2,7 @@
 
 #### Estou em transição de carreira aprendendo a programar com foco em Back End
 
-<img src="anime girl javascript.png" width="500">
+<img src="anime girl javascript.png" width="550">
 
 Onde eu estudo
 --
