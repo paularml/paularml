@@ -24,7 +24,7 @@ Amo músicas e vídeo clipes diferentes, minha imagem aqui é da música ["Madel
 
 Amo filmes de terror, coisas dark e góticas mas também animes e mangás fofinhos e surfe
 
-Fiz uma playlist no Spotify que chama Witches and Devils
+Fiz uma playlist no Spotify que chama Witches and Devils <br>
 [<img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/playlist/641TISFKEr2rEeR1oVEu4a?si=55e0cea6718c4e33 "Link para minha playlist") 
 
 Contato
