@@ -16,6 +16,13 @@ Linguagens e tecnologias que tenho mais prática
 
 <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paularml&theme=github_dark"/> 
 
+Projetos mais legais que fiz
+--
+Desafio I2A2: <br>
+<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>(https://github.com/paularml/desafio1-i2a2 "Link para o desafio") <br>
+Desafio Start DB: <br>
+<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>(https://github.com/paularml/desafio-paula-leite "Link para o desafio")
+
 Curiosidades
 --
 Sou formada em História da Arte pela Universidade do Estado do Rio de Janeiro (UERJ)
