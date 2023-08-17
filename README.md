@@ -29,8 +29,7 @@ Sou formada em História da Arte pela Universidade do Estado do Rio de Janeiro (
 
 Amo músicas e vídeo clipes diferentes, minha imagem aqui é da música ["Madeline"](https://www.youtube.com/watch?v=edKo3y2cFUg "Link para o vídeo clipe") da Kiki Rockwell
 
-Aliás, fiz uma playlist no Spotify que chama Witches and Devils: <br>
-[<img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/playlist/641TISFKEr2rEeR1oVEu4a?si=55e0cea6718c4e33 "Link para minha playlist") 
+Aliás, fiz uma playlist no Spotify que chama [Witches and Devils](https://open.spotify.com/playlist/641TISFKEr2rEeR1oVEu4a?si=55e0cea6718c4e33 "Link para minha playlist") 
 
 Amo filmes de terror, coisas dark e góticas mas também animes e mangás fofinhos e surfe
 
