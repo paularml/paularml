@@ -2,13 +2,14 @@
 
 #### Estou em transição de carreira aprendendo a programar com foco em Back End.
 
-Eis as linguagens que tenho mais prática:
-- **Javascript/Node.js**
-- **Python**
+Eis as linguagens e tecnologias que tenho mais prática:
+- <code><img height= "20"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+- <code><img height= "20"src= "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+- <code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
 
-Tecnologias que me me interessam e também estudo:
-- **AWS**
-- **Redes Generativas**
+
+<img src="anime girl javascript.png">
 
 Onde eu estudo:
 - Tecnologia em Sistemas da Computação - **Universidade Federal Fluminense (UFF)**
