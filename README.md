@@ -1,16 +1,18 @@
-### Hi there 👋
+## Oie, me chamo Paula
 
-<!--
-**paularml/paularml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Estou em transição de carreira aprendendo a programar com foco em Back End.
 
-Here are some ideas to get you started:
+Eis as linguagens que tenho mais prática:
+- **Javascript/Node.js**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que me me interessam e também estudo:
+- **AWS**
+- **Redes Generativas**
+
+Onde eu estudo:
+- Tecnologia em Sistemas da Computação - **Universidade Federal Fluminense (UFF)**
+- Desenvolvimento de Software com foco em Back End - **Cubos Academy**
+
+Meu LinkedIn: 
+- [Paula Rodrigues Magalhães Leite](https://www.linkedin.com/in/paularml/ "Link para meu LinkedIn")
