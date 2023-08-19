@@ -18,10 +18,10 @@ Linguagens e tecnologias que tenho mais prática
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paularml&theme=github_dark" style="max-width: 100%; height: auto;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paularml&theme=github_dark" style="max-width: 50%; height: auto;" />
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularml&layout=compact&theme=github_dark" style="max-width: 60%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularml&layout=compact&theme=github_dark" style="max-width: 30%; height: auto;" />
   </div>
 </div>
 
