@@ -20,12 +20,16 @@ Linguagens e tecnologias que tenho mais prática
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=paularml&layout=compact&theme=github_dark"/>
 
+<br>
+
 Projetos mais legais que fiz
 --
 Desafio I2A2: <br>
 [<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/paularml/desafio1-i2a2 "Link para o desafio") <br>
 Desafio Start DB: <br>
 [<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/paularml/desafio-paula-leite "Link para o desafio")
+
+<br>
 
 Curiosidades
 --
@@ -37,6 +41,7 @@ Aliás, fiz uma playlist no Spotify que chama [Witches and Devils](https://open.
 
 Amo filmes de terror, coisas dark e góticas mas também animes e mangás fofinhos e surfe
 
+<br>
 
 Contato
 -- 
