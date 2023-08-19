@@ -19,7 +19,7 @@ Linguagens e tecnologias que tenho mais prática
 <table cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paularml&theme=github_dark" style="width: 80%;"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paularml&theme=github_dark" style="width: 100%;"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularml&layout=compact&theme=github_dark" style="width: 100%;"/>
