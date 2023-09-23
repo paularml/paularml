@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/contato%3A-%23990100?logo=contact&logoColor=white" alt="Contato Badge"/>
 <a href="https://www.linkedin.com/in/paularml/">
     <img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white
-" alt="LinkedIn Badge"/>
+"/>
   </a>
   <a href="mailto:paula.rml@hotmail.com">
     <img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" alt="Microfost Outlook Badge"/>
@@ -46,28 +46,8 @@ Linguagens e tecnologias que tenho mais prática:
 --
 <div align="center"><img src ="anime girl javascript.png" width="500"></div>
 <br>
-<br> <img src= "https://img.shields.io/badge/Python-%23990100?logo=python&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Node.Js-%23990100?logo=Node.Js&logoColor=white"/> <img src= "https://img.shields.io/badge/Express%20Js-%23990100?logo=Express&logoColor=white
-"/>  <img src= "https://img.shields.io/badge/Npm-%23990100?logo=npm
-"/><img src= "https://img.shields.io/badge/Json-%23990100?logo=json
-"/> <img src= "https://img.shields.io/badge/Microsoft%20SQL%20server-%23990100?logo=microsoftsqlserver&logoColor=white
-"/> <img src= " https://img.shields.io/badge/PostgreSQL-%23990100?logo=postgresql&logoColor=white
-"/>  <img src= "https://img.shields.io/badge/Insomnia-%23990100?logo=Insomnia&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Git-%23990100?logo=git&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Html5-%23990100?logo=html5&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Css3-%23990100?logo=css3&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Windows%20Terminal-%23990100?logo=windows%20terminal&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Render-%23990100?logo=render&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Vercel-%23990100?logo=vercel&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Amazon%20AWS-%23990100?logo=amazon%20aws&logoColor=white
-"/>  <img src= "https://img.shields.io/badge/MDN%20Web%20Docs-%23990100?logo=mdn%20Web%20Docs&logoColor=white
-"/> <img src= "https://img.shields.io/badge/StackOverflow-%23990100?logo=Stack%20Overflow&logoColor=white
-"/> <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-%23990100?logo=Visual%20Studio%20Code&logoColor=white
-"/>
-
-
-
-
+<br> <img src= "https://img.shields.io/badge/Python-%23990100?logo=python&logoColor=white"/> <img src= "https://img.shields.io/badge/Node.Js-%23990100?logo=Node.Js&logoColor=white"/> <img src= "https://img.shields.io/badge/Express%20Js-%23990100?logo=Express&logoColor=white"/>  <img src= "https://img.shields.io/badge/Npm-%23990100?logo=npm"/><img src= "https://img.shields.io/badge/Json-%23990100?logo=json
+"/> <img src= "https://img.shields.io/badge/Microsoft%20SQL%20server-%23990100?logo=microsoftsqlserver&logoColor=white"/> <img src= "https://img.shields.io/badge/PostgreSQL-%23990100?logo=postgresql&logoColor=white"/> <img src= "https://img.shields.io/badge/Insomnia-%23990100?logo=Insomnia&logoColor=white"/> <img src= "https://img.shields.io/badge/Git-%23990100?logo=git&logoColor=white"/> <img src= "https://img.shields.io/badge/Html5-%23990100?logo=html5&logoColor=white"/> <img src= "https://img.shields.io/badge/Css3-%23990100?logo=css3&logoColor=white"/> <img src= "https://img.shields.io/badge/Windows%20Terminal-%23990100?logo=windows%20terminal&logoColor=white"/> <img src= "https://img.shields.io/badge/Render-%23990100?logo=render&logoColor=white"/> <img src= "https://img.shields.io/badge/Vercel-%23990100?logo=vercel&logoColor=white"/> <img src= "https://img.shields.io/badge/Amazon%20AWS-%23990100?logo=amazon%20aws&logoColor=white"/>  <img src= "https://img.shields.io/badge/MDN%20Web%20Docs-%23990100?logo=mdn%20Web%20Docs&logoColor=white"/> <img src= "https://img.shields.io/badge/StackOverflow-%23990100?logo=Stack%20Overflow&logoColor=white"/> <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-%23990100?logo=Visual%20Studio%20Code&logoColor=white"/>
 
 <br>
 
