@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/contato%3A-%23990100?logo=contact&logoColor=white" alt="Contato Badge"/>
-<a href="https://www.linkedin.com/in/paularml/"><img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white" target="_blank"/></a> <a href="mailto:paula.rml@hotmail.com"><img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" target="_blank" alt="Microfost Outlook Badge"/></a>
+<a href="https://www.linkedin.com/in/paularml/"><img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white"/></a> <a href="mailto:paula.rml@hotmail.com"><img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" alt="Microfost Outlook Badge"/></a>
 </div>
 <br>
 <br>
@@ -70,8 +70,8 @@ Contato (de novo, se liga rs):
 -- 
 
 <a href="https://www.linkedin.com/in/paularml/">
-    <img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white" target="_blank"alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:paula.rml@hotmail.com">
-    <img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" target="_blank" alt="Microfost Outlook Badge"/>
+    <img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" alt="Microfost Outlook Badge"/>
   </a>
