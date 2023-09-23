@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="giphy.gif" width="200"/>
+  <img src="giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -13,7 +13,7 @@
 
 <br>
 
-#### <div align="center"> Estou em transição de carreira aprendendo a programar com foco em Back End </div> 
+## <div align="center"> Estou em transição de carreira aprendendo a programar com foco em Back End </div> 
 
 <table cellspacing="0">
   <tr>
