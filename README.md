@@ -7,10 +7,7 @@
 <a href="https://www.linkedin.com/in/paularml/"><img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white"/></a> <a href="mailto:paula.rml@hotmail.com"><img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" alt="Microfost Outlook Badge"/></a>
 </div>
 <br>
-<br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=3000&center=true&width=5000&height=500&lines=Oie+pessoas!;Me+chamo+Paula+(:" align="center" />
-
-
 <br>
 
 ## <div align="center"> Estou em transição de carreira aprendendo a programar com foco em Back End </div> 
@@ -34,7 +31,6 @@ Onde eu estudo:
 
 ![Static Badge](https://img.shields.io/badge/Desenvolvimento%20de%20Software%20com%20foco%20em%20Back%20End-Cubos%20Academy-%23990100?logo=uff&logoColor=white)
 
-
 <br>
 
 Linguagens e tecnologias que tenho mais prática:
@@ -52,6 +48,7 @@ Projetos mais legais que fiz:
 <a href="https://github.com/paularml/desafio1-i2a2"> <img src="https://img.shields.io/badge/Desafio%20I2A2-Github-%23990100?logo=github&logoColor=white" alt="I2A2 Badge"/> </a>
  <br>
 <a href="https://github.com/paularml/desafio-paula-leite"> <img src="https://img.shields.io/badge/Desafio%20Start%20DB-Github-%23990100?logo=github&logoColor=white" alt="Start DB Badge"/> </a>
+
 <br>
 
 Curiosidades:
