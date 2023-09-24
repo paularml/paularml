@@ -46,7 +46,8 @@ Linguagens e tecnologias que tenho mais prática:
 Projetos mais legais que fiz:
 --
 <a href="https://github.com/paularml/desafio1-i2a2"> <img src="https://img.shields.io/badge/Desafio%20I2A2-Github-%23990100?logo=github&logoColor=white" alt="I2A2 Badge"/> </a>
- <br>
+
+
 <a href="https://github.com/paularml/desafio-paula-leite"> <img src="https://img.shields.io/badge/Desafio%20Start%20DB-Github-%23990100?logo=github&logoColor=white" alt="Start DB Badge"/> </a>
 
 <br>
