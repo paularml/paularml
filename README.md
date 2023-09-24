@@ -9,7 +9,7 @@
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=3000&center=true&width=5000&height=500&lines=Oie+pessoas!;Me+chamo+Paula+(:" align="center" />
 
-## <div align="center" > <font color="gray">Estou em transição de carreira aprendendo a programar com foco em Back End </div> 
+## <div align="center" >Estou em transição de carreira aprendendo a programar com foco em Back End </div> 
 
 
 <table cellspacing="0">
@@ -53,13 +53,13 @@ Projetos mais legais que fiz:
 
 Curiosidades:
 --
-<font color="red">Sou formada em História da Arte pela Universidade do Estado do Rio de Janeiro (UERJ)
+Sou formada em História da Arte pela Universidade do Estado do Rio de Janeiro (UERJ)
 
 Comecei minha transição para a área de tecnologia estudando UX Design
 
 Mesmo tendo todo um TCC sobre imagens e iconografia descobri que amo a parte não visual da programação (gosto de fazer tudo funcionar)
 
-Amo músicas e vídeo clipes diferentes, minha imagem aqui é da música ["Madeline"](https://www.youtube.com/watch?v=edKo3y2cFUg "Link para o vídeo clipe") da Kiki Rockwell</font>
+Amo músicas e vídeo clipes diferentes, minha imagem aqui é da música ["Madeline"](https://www.youtube.com/watch?v=edKo3y2cFUg "Link para o vídeo clipe") da Kiki Rockwell
 
 <br>
 
