@@ -9,7 +9,7 @@
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=3000&center=true&width=5000&height=500&lines=Oie+pessoas!;Me+chamo+Paula+(:" align="center" />
 
-## <div align="center" >Estou em transição de carreira aprendendo a programar com foco em Back End </div> 
+**<div align="center" >Estou em transição de carreira aprendendo a programar com foco em Back End </div>** 
 
 
 <table cellspacing="0">
