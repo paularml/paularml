@@ -41,7 +41,7 @@ Linguagens e tecnologias que tenho mais prática:
 --
 <div align="center"><img src ="anime girl javascript.png" width="500"> </div>
 <br>
-<div align="left">
+<div align="center">
 <img src= "icons8-python-50.png"/> <img src= "icons8-javascript-50.png"/> <img src= "icons8-node-js-32.png"/> <img src= "icons8-express-js-50.png"/> <img src= "icons8-npm-logo-32.png"/> <img src= "icons8-json-(javascript-object-notation)-is-a-lightweight-data-interchange-format-24.png"/> <img src= "icons8-sql-50.png"/> <img src= "icons8-postgresql-50.png"/> <img src= "icons8-git-50.png"/> <img src= "icons8-html5-50.png"/> <img src= "icons8-css3-50.png"/> <img src= "icons8-amazon-web-services-32.png"/> <img src= "icons8-visual-studio-code-64.png"/>
 
 </div>
