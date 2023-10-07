@@ -31,6 +31,10 @@ Onde eu estudo:
 
 ![Static Badge](https://img.shields.io/badge/Desenvolvimento%20de%20Software%20com%20foco%20em%20Back%20End-Cubos%20Academy-%23990100?logo=uff&logoColor=white)
 
+
+![Static Badge](https://img.shields.io/badge/DevOps-Ada_Tech-%23990100)
+
+
 <br>
 
 Linguagens e tecnologias que tenho mais prática:
@@ -45,10 +49,14 @@ Linguagens e tecnologias que tenho mais prática:
 
 Projetos mais legais que fiz:
 --
-<a href="https://github.com/paularml/desafio1-i2a2"> <img src="https://img.shields.io/badge/Desafio%20I2A2-Github-%23990100?logo=github&logoColor=white" alt="I2A2 Badge"/> </a>
+<a href="https://github.com/paularml/desafio1-i2a2"> <img src="https://img.shields.io/badge/Site%20de%20Vendas%20I2A2-Github-%23990100?logo=github&logoColor=white" alt="I2A2 Badge"/> </a>
 
 
-<a href="https://github.com/paularml/desafio-paula-leite"> <img src="https://img.shields.io/badge/Desafio%20Start%20DB-Github-%23990100?logo=github&logoColor=white" alt="Start DB Badge"/> </a>
+<a href="https://github.com/paularml/desafio-paula-leite"> <img src="https://img.shields.io/badge/Caixa%20de%20Lanchonete%20Start%20DB-Github-%23990100?logo=github&logoColor=white" alt="Start DB Badge"/> </a>
+
+
+<a href="https://github.com/paularml/desafio3-cubos"> <img src="https://img.shields.io/badge/Controle%20de%20Gastos%20Cubos-Github-%23990100?logo=github&logoColor=white" alt="Cubos Badge"/> </a>
+
 
 <br>
 
