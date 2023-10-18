@@ -69,7 +69,5 @@ Comecei minha transição para a área de tecnologia estudando UX Design
 
 Mesmo tendo todo um TCC sobre imagens e iconografia descobri que amo a parte não visual da programação (gosto de fazer tudo funcionar ✨)
 
-Amo músicas e vídeo clipes diferentes, minha imagem aqui é da música ["Madeline"](https://www.youtube.com/watch?v=edKo3y2cFUg "Link para o vídeo clipe") da Kiki Rockwell
-
 <br>
 
