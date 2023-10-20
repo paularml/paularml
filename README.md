@@ -26,13 +26,13 @@
 
 Onde eu estudo:
 --
-![Static Badge](https://img.shields.io/badge/Tecnologia%20em%20Sistemas%20da%20Computa%C3%A7%C3%A3o-Universidade%20Federal%20Fluminense(UFF)-%23990100?logo=uff&logoColor=white)
+<a href="https://www.ic.uff.br/tecnologia-em-sistemas-de-computacao/"> <img src="https://img.shields.io/badge/Tecnologia%20em%20Sistemas%20da%20Computa%C3%A7%C3%A3o-Universidade%20Federal%20Fluminense(UFF)-%23990100?logo=uff&logoColor=white" alt="UFF Badge"/> </a>
 
 
-![Static Badge](https://img.shields.io/badge/Desenvolvimento%20de%20Software%20com%20foco%20em%20Back%20End-Cubos%20Academy-%23990100?logo=uff&logoColor=white)
+<a href="https://cubos.academy/cursos/desenvolvimento-de-software"> <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Software%20com%20foco%20em%20Back%20End-Cubos%20Academy-%23990100?logo=uff&logoColor=white" alt="CUBOS Badge"/> </a>
 
 
-![Static Badge](https://img.shields.io/badge/DevOps-Ada_Tech-%23990100)
+<a href="https://ada.tech/sou-aluno/programas"> <img src="https://img.shields.io/badge/DevOps-Ada_Tech-%23990100" alt="ADA Badge"/> </a>
 
 
 <br>
@@ -50,14 +50,17 @@ Linguagens e tecnologias que tenho mais prática:
 
 Projetos mais legais que fiz:
 --
-<a href="https://github.com/paularml/desafio1-i2a2"> <img src="https://img.shields.io/badge/Site%20de%20Vendas%20I2A2-Github-%23990100?logo=github&logoColor=white" alt="I2A2 Badge"/> </a>
+
+<a href="https://github.com/marislaradev/Desafio-M05"> <img src="https://img.shields.io/badge/Cubos_Store_API-Github-%23990100?logo=github&logoColor=white" alt="Cubos store Badge"/> </a>
+
+
+<a href="https://github.com/paularml/desafio3-cubos"> <img src="https://img.shields.io/badge/Projeto%20de%20Dindin%20API-Github-%23990100?logo=github&logoColor=white" alt="Cubos Badge"/> </a>
 
 
 <a href="https://github.com/paularml/desafio-paula-leite"> <img src="https://img.shields.io/badge/Caixa%20de%20Lanchonete%20Start%20DB-Github-%23990100?logo=github&logoColor=white" alt="Start DB Badge"/> </a>
 
 
-<a href="https://github.com/paularml/desafio3-cubos"> <img src="https://img.shields.io/badge/Controle%20de%20Gastos%20Cubos-Github-%23990100?logo=github&logoColor=white" alt="Cubos Badge"/> </a>
-
+<a href="https://github.com/paularml/desafio1-i2a2"> <img src="https://img.shields.io/badge/Site%20de%20Vendas%20I2A2-Github-%23990100?logo=github&logoColor=white" alt="I2A2 Badge"/> </a>
 
 <br>
 
