@@ -54,7 +54,7 @@ Projetos mais legais que fiz:
 <a href="https://github.com/marislaradev/Desafio-M05"> <img src="https://img.shields.io/badge/Cubos_Store_API-Github-%23990100?logo=github&logoColor=white" alt="Cubos store Badge"/> </a>
 
 
-<a href="https://github.com/paularml/desafio3-cubos"> <img src="https://img.shields.io/badge/Projeto%20de%20Dindin%20API-Github-%23990100?logo=github&logoColor=white" alt="Cubos Badge"/> </a>
+<a href="https://github.com/paularml/desafio3-cubos"> <img src="https://img.shields.io/badge/Projeto%20Dindin%20API-Github-%23990100?logo=github&logoColor=white" alt="Cubos Badge"/> </a>
 
 
 <a href="https://github.com/paularml/desafio-paula-leite"> <img src="https://img.shields.io/badge/Caixa%20de%20Lanchonete%20Start%20DB-Github-%23990100?logo=github&logoColor=white" alt="Start DB Badge"/> </a>
