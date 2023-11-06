@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/contato%3A-%23990100?logo=contact&logoColor=white" alt="Contato Badge"/>
-<a href="https://www.linkedin.com/in/paularml/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white"/></a> <a href="mailto:paula.rml@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" alt="Microfost Outlook Badge"/> </a><a href="https://paularml.me/" target="_blank"><img src="https://img.shields.io/badge/curriculo-%23990100?logo=microsoft%20edge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/paularml/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23990100?logo=linkedin&logoColor=white"/></a> <a href="mailto:paula.rml@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/outlook-%23990100?logo=microsoft%20outlook&logoColor=white" alt="Microfost Outlook Badge"/></a> <a href="https://paularml.me/" target="_blank"><img src="https://img.shields.io/badge/curriculo-%23990100?logo=microsoft%20edge&logoColor=white"/></a> 
 </div>
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=3000&center=true&width=5000&height=500&lines=Oie+pessoas!;Me+chamo+Paula+(:" align="center" />
